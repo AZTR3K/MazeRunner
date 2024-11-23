@@ -1,6 +1,6 @@
 ---
 
-# **Maze Runner: The Scorched Trials**
+## **Maze Runner: The Scorched Trials**
 
 **Maze Runner: The Scorched Trials** is an engaging and challenging maze game developed in **8086 assembly language**. The game tests your skills as you navigate through intricate mazes filled with collectibles and adversaries. Using the **WASD** keys, players maneuver through the maze, collect items, and make strategic decisions to maximize their score and time. The ultimate objective is to reach the designated exit, represented by the "Pie," before the **60-second timer** expires.
 
