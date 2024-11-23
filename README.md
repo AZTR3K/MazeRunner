@@ -1,10 +1,8 @@
-Here’s a markdown-friendly version of your game description:
-
 ---
 
-# **Diamond Trials**
+# **Maze Runner: The Scorched Trials**
 
-**Diamond Trials** is an engaging and challenging maze game developed in **8086 assembly language**. The game tests your skills as you navigate through intricate mazes filled with collectibles and adversaries. Using the **WASD** keys, players maneuver through the maze, collect items, and make strategic decisions to maximize their score and time. The ultimate objective is to reach the designated exit, represented by the "Pie," before the **60-second timer** expires.
+**Maze Runner: The Scorched Trials** is an engaging and challenging maze game developed in **8086 assembly language**. The game tests your skills as you navigate through intricate mazes filled with collectibles and adversaries. Using the **WASD** keys, players maneuver through the maze, collect items, and make strategic decisions to maximize their score and time. The ultimate objective is to reach the designated exit, represented by the "Pie," before the **60-second timer** expires.
 
 ---
 
@@ -90,6 +88,6 @@ Choose wisely based on your game state to maximize your chances of success.
 
 ---
 
-Enjoy navigating the maze and conquering the challenges of **Diamond Trials**!
+Enjoy navigating the maze and conquering the challenges of **Maze Runner: The Scorched Trials**!
 
 ---
